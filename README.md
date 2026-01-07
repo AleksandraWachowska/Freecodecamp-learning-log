@@ -19,7 +19,7 @@ The repository follows the official freeCodeCamp learning paths:
 ## Repository Structure
 
 The repository is organized according to freeCodeCamp sections and topics:
-
+```
 freecodecamp-learning-log/
 │
 ├── responsive-web-design/
@@ -56,7 +56,7 @@ freecodecamp-learning-log/
 │   └── react.md
 │
 └── README.md
-
+```
 ---
 
 ## Technologies Used
